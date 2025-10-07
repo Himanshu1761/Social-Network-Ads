@@ -1,4 +1,4 @@
-# Social-Network-Ads
+# Social-Network-Ads- Machine Learning
 
 # About the Dataset
 This dataset has been designed for machine learning practice and contains information about users and their purchasing behavior.
